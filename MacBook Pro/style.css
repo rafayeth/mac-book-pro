@@ -1,0 +1,46 @@
+.macbook {
+    padding: 30px 20px;
+}
+
+.memory {
+    padding: 30px 0
+}
+
+.storage {
+    padding: 30px 0;
+}
+
+.delevery-option {
+    padding: 30px 0;
+}
+
+.cart-item {
+    padding-top: 30px;
+    margin: 0;
+}
+
+.total {
+    border-top: 2px solid gray;
+    border-width: 100%;
+
+}
+
+.apply {
+    background-color: rgb(248, 107, 107);
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+
+
+
+}
+
+.promo-code {
+    padding: 50px 0;
+}
+
+.promo-code input {
+    height: 33px;
+    width: 300px;
+
+}
